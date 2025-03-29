@@ -1,3 +1,4 @@
+
 **NOTICE Mar 1 2018:** The atomic swap contract has been updated to specify the
 secret sizes to prevent fraudulent swaps between two cryptocurrencies with
 different maximum data sizes.  Old contracts will not be usable by the new tools
